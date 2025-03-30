@@ -1,2 +1,2 @@
 # Cplusplus-
-Practice codes for c++
+Repository for c++ codes
